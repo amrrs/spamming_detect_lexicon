@@ -2,4 +2,4 @@
 
 ### App Screenshot 
 
-![Uploading app_screenshot.png…]()
+![app_screenshot.png](app_screenshot.png)
